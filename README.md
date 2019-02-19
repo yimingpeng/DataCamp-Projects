@@ -15,4 +15,6 @@ Feel free to fork or download and enjoy!
     - Dr. Semmelweis and the Discovery of Handwashing
 - [**18-2-2019**] Update the project: 
   - Exploring the Bitcoin cryptocurrency market
+- [**19-2-2019**] Update the project:
+  - Exploring the evolution of Linux
 
