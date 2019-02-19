@@ -18,5 +18,5 @@ Feel free to fork or download and enjoy!
 - [**19-2-2019**] Update the project:
   - [Exploring the evolution of Linux](https://github.com/yimingpeng/DataCamp-Projects/tree/master/Exploring%20the%20evolution%20of%**20Linux**)
 - [**20-2-2019**] Update the project:
-  - [A New Era of Data Analysis in Baseball](https://github.com/yimingpeng/DataCamp-Projects/tree/master/Exploring%20the%20evolution%20of%**20Linux**)
+  - [A New Era of Data Analysis in Baseball]([https://github.com/yimingpeng/DataCamp-Projects/tree/master/Exploring%20the%20evolution%20of%**20Linux**](https://github.com/yimingpeng/DataCamp-Projects/tree/master/A%20New%20Era%20of%20Data%20Analysis%20in%20Baseball))
 
