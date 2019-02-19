@@ -16,5 +16,7 @@ Feel free to fork or download and enjoy!
 - [**18-2-2019**] Update the project: 
   - [Exploring the Bitcoin cryptocurrency market](https://github.com/yimingpeng/DataCamp-Projects/tree/master/Exploring%20the%20Bitcoin%20cryptocurrency%20market)
 - [**19-2-2019**] Update the project:
-  - [Exploring the evolution of Linux](https://github.com/yimingpeng/DataCamp-Projects/tree/master/Exploring%20the%20evolution%20of%20Linux)
+  - [Exploring the evolution of Linux](https://github.com/yimingpeng/DataCamp-Projects/tree/master/Exploring%20the%20evolution%20of%**20Linux**)
+- [**20-2-2019**] Update the project:
+  - [A New Era of Data Analysis in Baseball](https://github.com/yimingpeng/DataCamp-Projects/tree/master/Exploring%20the%20evolution%20of%**20Linux**)
 
