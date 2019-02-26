@@ -26,5 +26,5 @@ Feel free to fork or download and enjoy!
 - [**24-2-2019**] Add the two projects:
   - [Which Debts Are Worth the Bank's Effort?](https://github.com/yimingpeng/DataCamp-Projects/tree/master/Which%20Debts%20Are%20Worth%20the%20Banks%20Effort)
   - [Recreating John Snow's Ghost Map](https://github.com/yimingpeng/DataCamp-Projects/tree/master/Recreating%20John%20Snow's%20Ghost%20Map)
-- [**27-2-2019**] Add the two projects:
+- [**27-2-2019**] Add the project:
   - [TV, Halftime Shows, and the Big Game](https://github.com/yimingpeng/DataCamp-Projects/tree/master/TV%2C%20Halftime%20Shows%2C%20and%20the%20Big%20Game)
