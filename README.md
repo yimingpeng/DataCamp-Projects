@@ -1,12 +1,12 @@
 # DataCamp Projects (Python)
 
-This repository contains the DataCamp projects I completed, which will be continuously updated daily (hopefully).
+This repository contains the DataCamp projects I completed, which will be continuously updated regularly (hopefully).
 
 Two reasons for creating this repository:
 1. Tracking my learning process
 2. Providing some hints for people whoever got stuck on those projects
    
-Feel free to fork or download and enjoy!
+Feel free to fork or download, and please enjoy!
 
 ## Updating Log:
 - [**17-2-2019**] Init the repository with three completed projects
